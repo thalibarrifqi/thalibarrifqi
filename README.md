@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thalibarrifqi
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to work for Full Time employee
+- 👀 I’m interested in Intelligent Systems
+- 🌱 I’m currently learning Machine Learning for Data Science
 - 📫 You can reach me on thalibarrifqi@gmail.com
 
 <!---
