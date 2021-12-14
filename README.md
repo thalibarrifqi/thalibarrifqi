@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thalibarrifqi
 - 👀 I’m interested in Intelligent Systems
-- 🌱 I’m currently learning Machine Learning for Data Science
+- 🌱 I enjoy working with data, retrieving information from it, and using it to differing insight and problems solving.
 - 📫 You can reach me on thalibarrifqi@gmail.com
 
 <!---
