@@ -5,7 +5,6 @@
 - Kaggle: https://www.kaggle.com/akhmadthalibarrifqi
 - Data Science: https://www.datascienceportfol.io/thalibarrifqi
 - Competitive Programming: https://www.hackerrank.com/2210171009_rifqi
-- Hobbies: https://upperstairs.wordpress.com
 
 <!---
 thalibarrifqi/thalibarrifqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
