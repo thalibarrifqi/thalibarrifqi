@@ -4,7 +4,8 @@
 - 📫 You can reach me on thalibarrifqi@gmail.com
 - Kaggle: https://www.kaggle.com/akhmadthalibarrifqi
 - Data Science: https://www.datascienceportfol.io/thalibarrifqi
-- Competitive Programming: https://www.hackerrank.com/2210171009_rifqi
+- Competitive Programming:  - https://www.hackerrank.com/2210171009_rifqi
+                            - https://leetcode.com/thalibarrifqi/
 - Personal Website  - https://uppstairs1120.web.app
 
 <!---
