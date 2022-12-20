@@ -4,17 +4,17 @@
 - 📫 You can reach me on email
 - thalibarrifqi@gmail.com
 -
-- Meet me on 
+- Meet me on Kaggle
 - https://www.kaggle.com/akhmadthalibarrifqi
 -
-- See me on
+- See me on My Portofolio
 - https://www.datascienceportfol.io/thalibarrifqi
 -
-- Fight me on
+- Fight me on Competitive Programming
 - https://www.hackerrank.com/2210171009_rifqi
 - https://leetcode.com/thalibarrifqi/
 - 
-- Know me on
+- Know me on My Website
 - https://upperstairs.wordpress.com
 - https://uppstairs1120.web.app
 
