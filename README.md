@@ -1,18 +1,20 @@
-- 👋 Hi, I’m @thalibarrifqi
+- 👋 Hi!, I’m @thalibarrifqi
 - 👀 I’m interested in Intelligence Systems
 - 🌱 I enjoy working with data, retrieving information from it, and using it to differing insight and problems solving.
-- 📫 You can reach me on thalibarrifqi@gmail.com
-- Kaggle
+- 📫 You can reach me on email
+- thalibarrifqi@gmail.com
+-
+- Meet me on 
 - https://www.kaggle.com/akhmadthalibarrifqi
-- 
-- Data Science
+-
+- See me on
 - https://www.datascienceportfol.io/thalibarrifqi
-- 
-- Competitive Programming
+-
+- Fight me on
 - https://www.hackerrank.com/2210171009_rifqi
 - https://leetcode.com/thalibarrifqi/
 - 
-- Blog
+- Know me on
 - https://upperstairs.wordpress.com
 - https://uppstairs1120.web.app
 
