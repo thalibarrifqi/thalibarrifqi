@@ -2,17 +2,17 @@
 - 👀 I’m interested in Intelligence Systems
 - 🌱 I enjoy working with data, retrieving information from it, and using it to differing insight and problems solving.
 - 📫 You can reach me on thalibarrifqi@gmail.com
-- Kaggle: 
+- Kaggle
 - https://www.kaggle.com/akhmadthalibarrifqi
 - 
-- Data Science: 
+- Data Science
 - https://www.datascienceportfol.io/thalibarrifqi
 - 
-- Competitive Programming:  
+- Competitive Programming
 - https://www.hackerrank.com/2210171009_rifqi
 - https://leetcode.com/thalibarrifqi/
 - 
-- Personal Website
+- Blog
 - https://upperstairs.wordpress.com
 - https://uppstairs1120.web.app
 
