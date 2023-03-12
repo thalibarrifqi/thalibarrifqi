@@ -14,7 +14,7 @@
 - https://www.hackerrank.com/2210171009_rifqi
 - https://leetcode.com/thalibarrifqi/
 - 
-- Know me on My Website
+- Read me on My Website
 - https://upperstairs.wordpress.com
 - https://uppstairs1120.web.app
 
