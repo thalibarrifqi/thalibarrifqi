@@ -11,7 +11,7 @@
 - https://www.datascienceportfol.io/thalibarrifqi
 -
 - Fight me on Competitive Programming
-- https://www.hackerrank.com/2210171009_rifqi
+- https://www.hackerrank.com/thalibarrifqi
 - https://leetcode.com/thalibarrifqi/
 - 
 - Read me on My Website
