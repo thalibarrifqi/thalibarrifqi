@@ -16,7 +16,6 @@
 - 
 - Read me on My Website
 - https://upperstairs.wordpress.com
-- https://uppstairs1120.web.app
 
 <!---
 thalibarrifqi/thalibarrifqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
