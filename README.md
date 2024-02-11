@@ -1,5 +1,5 @@
 - 👋 Hi!, I’m @thalibarrifqi
-- 👀 I’m interested in Intelligence Systems
+- 👀 I’m interested in data.
 - 🌱 I enjoy working with data, retrieving information from it, and using it to differing insight and problems solving.
 - 📫 You can reach me by email
 - thalibarrifqi@gmail.com
