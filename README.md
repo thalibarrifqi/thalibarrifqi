@@ -10,7 +10,6 @@
 - Fight me on Competitive Programming
 - https://www.hackerrank.com/thalibarrifqi
 - https://leetcode.com/thalibarrifqi
-- 
 <!---
 thalibarrifqi/thalibarrifqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
